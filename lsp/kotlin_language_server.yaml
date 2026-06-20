@@ -1,5 +1,10 @@
 filetypes:
   - "kotlin"
-root_markers: []
+root_markers:
+  - "settings.gradle"
+  - "settings.gradle.kts"
+  - "pom.xml"
+  - "build.gradle"
+  - "build.gradle.kts"
 name: "kotlin-language-server"
 cmdline: "kotlin-language-server"

@@ -1,2 +1,4 @@
-extensions: []
+extensions:
+  - "kt"
+  - "kts"
 patterns: []
