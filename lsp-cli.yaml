@@ -1,0 +1,10 @@
+# Preferred servers, in order, for each filetype.
+# User lsp-cli.yaml settings replace these lists per filetype.
+lsp:
+  c:
+    - clangd
+  cpp:
+    - clangd
+
+  lua:
+    - lua-language-server
