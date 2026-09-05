@@ -5,6 +5,32 @@ lsp:
     - clangd
   cpp:
     - clangd
+  cs:
+    - dotnet
+  cuda:
+    - clangd
+  go:
+    - gopls
+  gomod:
+    - gopls
+  gowork:
+    - gopls
+  java:
+    - jdtls
+  javascript:
+    - typescript-language-server
+  kotlin:
+    - kotlin-lsp
 
   lua:
     - lua-language-server
+  objc:
+    - clangd
+  objcpp:
+    - clangd
+  python:
+    - pyright-langserver
+  rust:
+    - rust-analyzer
+  typescript:
+    - typescript-language-server

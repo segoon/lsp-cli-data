@@ -8,4 +8,4 @@ root_markers:
   - "build.gradle.kts"
   - "workspace.json"
 name: "kotlin-lsp"
-cmdline: "kotlin-lsp --stdio"
+cmdline: "intellij-server --stdio"
