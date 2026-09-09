@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["idr", "lidr"]
 patterns: []
