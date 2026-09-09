@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["raku", "rakumod", "rakutest", "p6", "pl6", "pm6"]
 patterns: []

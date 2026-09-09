@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["scm"]
 patterns: []
