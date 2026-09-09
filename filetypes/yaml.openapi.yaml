@@ -1,2 +1,2 @@
 extensions: []
-patterns: []
+patterns: ["^openapi\\.ya?ml$", "^swagger\\.ya?ml$"]
