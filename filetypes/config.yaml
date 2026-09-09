@@ -1,2 +1,2 @@
 extensions: []
-patterns: []
+patterns: ["^configure\\.ac$", "^configure\\.in$", "^config\\.h\\.in$"]
