@@ -1,2 +1,4 @@
-extensions: ["graphql", "gql"]
+extensions:
+  - "graphql"
+  - "gql"
 patterns: []

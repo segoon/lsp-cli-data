@@ -1,2 +1,4 @@
 extensions: []
-patterns: ["^\\.bazelrc$", "^bazel\\.rc$"]
+patterns:
+  - "^\\.bazelrc$"
+  - "^bazel\\.rc$"

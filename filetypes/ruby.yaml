@@ -1,2 +1,10 @@
-extensions: ["rb", "rbw", "gemspec", "rake", "ru"]
-patterns: ["^Rakefile$", "^Gemfile$", "^Guardfile$"]
+extensions:
+  - "rb"
+  - "rbw"
+  - "gemspec"
+  - "rake"
+  - "ru"
+patterns:
+  - "^Rakefile$"
+  - "^Gemfile$"
+  - "^Guardfile$"

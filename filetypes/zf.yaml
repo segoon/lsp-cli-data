@@ -1,2 +1,3 @@
-extensions: ["zf"]
+extensions:
+  - "zf"
 patterns: []

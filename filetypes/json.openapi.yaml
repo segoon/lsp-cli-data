@@ -1,2 +1,4 @@
 extensions: []
-patterns: ["^openapi\\.json$", "^swagger\\.json$"]
+patterns:
+  - "^openapi\\.json$"
+  - "^swagger\\.json$"

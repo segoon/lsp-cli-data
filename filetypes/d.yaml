@@ -1,2 +1,4 @@
-extensions: ["d", "di"]
+extensions:
+  - "d"
+  - "di"
 patterns: []

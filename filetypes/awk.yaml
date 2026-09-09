@@ -1,2 +1,3 @@
-extensions: ["awk"]
+extensions:
+  - "awk"
 patterns: []

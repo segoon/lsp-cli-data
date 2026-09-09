@@ -1,2 +1,3 @@
-extensions: ["wat"]
+extensions:
+  - "wat"
 patterns: []

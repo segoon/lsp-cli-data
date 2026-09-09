@@ -1,2 +1,3 @@
-extensions: ["dtsi"]
+extensions:
+  - "dtsi"
 patterns: []

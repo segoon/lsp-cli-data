@@ -1,2 +1,6 @@
-extensions: ["mk", "mak"]
-patterns: ["^[Mm]akefile$", "^GNUmakefile$"]
+extensions:
+  - "mk"
+  - "mak"
+patterns:
+  - "^[Mm]akefile$"
+  - "^GNUmakefile$"

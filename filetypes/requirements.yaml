@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^requirements.*\\.txt$"]
+patterns:
+  - "^requirements.*\\.txt$"

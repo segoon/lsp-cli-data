@@ -1,2 +1,3 @@
-extensions: ["coffee"]
+extensions:
+  - "coffee"
 patterns: []

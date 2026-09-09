@@ -1,2 +1,3 @@
-extensions: ["razor"]
+extensions:
+  - "razor"
 patterns: []

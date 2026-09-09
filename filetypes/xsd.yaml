@@ -1,2 +1,3 @@
-extensions: ["xsd"]
+extensions:
+  - "xsd"
 patterns: []

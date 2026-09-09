@@ -1,2 +1,3 @@
-extensions: ["luau"]
+extensions:
+  - "luau"
 patterns: []

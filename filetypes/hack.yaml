@@ -1,2 +1,4 @@
-extensions: ["hack", "hck"]
+extensions:
+  - "hack"
+  - "hck"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["vhd"]
+extensions:
+  - "vhd"
 patterns: []

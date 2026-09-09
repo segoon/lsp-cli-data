@@ -1,2 +1,3 @@
-extensions: ["mo"]
+extensions:
+  - "mo"
 patterns: []

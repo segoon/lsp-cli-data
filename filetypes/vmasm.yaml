@@ -1,2 +1,3 @@
-extensions: ["masm"]
+extensions:
+  - "masm"
 patterns: []

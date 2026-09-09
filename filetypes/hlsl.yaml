@@ -1,2 +1,6 @@
-extensions: ["hlsl", "hlsli", "fx", "fxh"]
+extensions:
+  - "hlsl"
+  - "hlsli"
+  - "fx"
+  - "fxh"
 patterns: []

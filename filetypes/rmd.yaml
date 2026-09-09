@@ -1,2 +1,3 @@
-extensions: ["rmd"]
+extensions:
+  - "rmd"
 patterns: []

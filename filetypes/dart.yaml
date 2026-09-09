@@ -1,2 +1,3 @@
-extensions: ["dart"]
+extensions:
+  - "dart"
 patterns: []

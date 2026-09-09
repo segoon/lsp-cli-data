@@ -1,2 +1,3 @@
-extensions: ["cr"]
+extensions:
+  - "cr"
 patterns: []

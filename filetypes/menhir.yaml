@@ -1,2 +1,3 @@
-extensions: ["mly"]
+extensions:
+  - "mly"
 patterns: []

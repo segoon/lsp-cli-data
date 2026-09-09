@@ -1,2 +1,4 @@
-extensions: ["hs", "hsc"]
+extensions:
+  - "hs"
+  - "hsc"
 patterns: []

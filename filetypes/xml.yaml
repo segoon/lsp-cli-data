@@ -1,2 +1,3 @@
-extensions: ["xml"]
+extensions:
+  - "xml"
 patterns: []

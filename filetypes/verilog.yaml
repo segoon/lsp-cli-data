@@ -1,2 +1,4 @@
-extensions: ["v", "vh"]
+extensions:
+  - "v"
+  - "vh"
 patterns: []

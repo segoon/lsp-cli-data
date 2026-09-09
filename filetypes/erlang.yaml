@@ -1,2 +1,4 @@
-extensions: ["erl", "hrl"]
+extensions:
+  - "erl"
+  - "hrl"
 patterns: []

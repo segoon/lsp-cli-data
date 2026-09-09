@@ -1,2 +1,3 @@
-extensions: ["upf"]
+extensions:
+  - "upf"
 patterns: []

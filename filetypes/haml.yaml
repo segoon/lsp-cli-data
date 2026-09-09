@@ -1,2 +1,3 @@
-extensions: ["haml"]
+extensions:
+  - "haml"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["tesc"]
+extensions:
+  - "tesc"
 patterns: []

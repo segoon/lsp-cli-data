@@ -1,2 +1,3 @@
-extensions: ["odin"]
+extensions:
+  - "odin"
 patterns: []

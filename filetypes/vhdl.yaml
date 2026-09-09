@@ -1,2 +1,4 @@
-extensions: ["vhdl", "vhd"]
+extensions:
+  - "vhdl"
+  - "vhd"
 patterns: []

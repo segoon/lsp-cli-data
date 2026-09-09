@@ -1,2 +1,5 @@
-extensions: ["jinja", "jinja2", "j2"]
+extensions:
+  - "jinja"
+  - "jinja2"
+  - "j2"
 patterns: []

@@ -1,2 +1,6 @@
 extensions: []
-patterns: ["^hyprland\\.conf$", "^hyprpaper\\.conf$", "^hypridle\\.conf$", "^hyprlock\\.conf$"]
+patterns:
+  - "^hyprland\\.conf$"
+  - "^hyprpaper\\.conf$"
+  - "^hypridle\\.conf$"
+  - "^hyprlock\\.conf$"

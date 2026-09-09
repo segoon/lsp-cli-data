@@ -1,2 +1,3 @@
-extensions: ["xslt"]
+extensions:
+  - "xslt"
 patterns: []

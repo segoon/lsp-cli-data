@@ -1,2 +1,3 @@
-extensions: ["zir"]
+extensions:
+  - "zir"
 patterns: []

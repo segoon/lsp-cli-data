@@ -1,2 +1,3 @@
-extensions: ["rnw"]
+extensions:
+  - "rnw"
 patterns: []

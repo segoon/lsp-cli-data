@@ -1,2 +1,3 @@
-extensions: ["cabal"]
+extensions:
+  - "cabal"
 patterns: []

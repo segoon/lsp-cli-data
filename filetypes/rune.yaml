@@ -1,2 +1,3 @@
-extensions: ["rn"]
+extensions:
+  - "rn"
 patterns: []

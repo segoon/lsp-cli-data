@@ -1,2 +1,4 @@
-extensions: ["ino", "pde"]
+extensions:
+  - "ino"
+  - "pde"
 patterns: []

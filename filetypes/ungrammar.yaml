@@ -1,2 +1,3 @@
-extensions: ["ungram"]
+extensions:
+  - "ungram"
 patterns: []

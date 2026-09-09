@@ -1,2 +1,3 @@
-extensions: ["swift"]
+extensions:
+  - "swift"
 patterns: []

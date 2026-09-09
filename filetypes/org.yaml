@@ -1,2 +1,3 @@
-extensions: ["org"]
+extensions:
+  - "org"
 patterns: []

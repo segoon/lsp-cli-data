@@ -1,2 +1,3 @@
-extensions: ["ml"]
+extensions:
+  - "ml"
 patterns: []

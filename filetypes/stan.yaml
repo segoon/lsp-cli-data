@@ -1,2 +1,3 @@
-extensions: ["stan"]
+extensions:
+  - "stan"
 patterns: []

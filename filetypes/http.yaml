@@ -1,2 +1,4 @@
-extensions: ["http", "rest"]
+extensions:
+  - "http"
+  - "rest"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["edn"]
+extensions:
+  - "edn"
 patterns: []

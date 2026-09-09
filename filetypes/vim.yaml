@@ -1,2 +1,5 @@
-extensions: ["vim"]
-patterns: ["^\\.vimrc$", "^\\.gvimrc$"]
+extensions:
+  - "vim"
+patterns:
+  - "^\\.vimrc$"
+  - "^\\.gvimrc$"

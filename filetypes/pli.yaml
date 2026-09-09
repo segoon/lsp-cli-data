@@ -1,2 +1,4 @@
-extensions: ["pli", "pl1"]
+extensions:
+  - "pli"
+  - "pl1"
 patterns: []

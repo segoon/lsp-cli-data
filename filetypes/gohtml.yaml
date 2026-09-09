@@ -1,2 +1,3 @@
-extensions: ["gohtml"]
+extensions:
+  - "gohtml"
 patterns: []

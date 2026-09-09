@@ -1,2 +1,3 @@
-extensions: ["njk"]
+extensions:
+  - "njk"
 patterns: []

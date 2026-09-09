@@ -1,2 +1,4 @@
 extensions: []
-patterns: ["^\\.muttrc$", "^muttrc$"]
+patterns:
+  - "^\\.muttrc$"
+  - "^muttrc$"

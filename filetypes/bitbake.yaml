@@ -1,2 +1,6 @@
-extensions: ["bb", "bbappend", "bbclass", "inc"]
+extensions:
+  - "bb"
+  - "bbappend"
+  - "bbclass"
+  - "inc"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["td"]
+extensions:
+  - "td"
 patterns: []

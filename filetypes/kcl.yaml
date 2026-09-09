@@ -1,2 +1,3 @@
-extensions: ["k"]
+extensions:
+  - "k"
 patterns: []

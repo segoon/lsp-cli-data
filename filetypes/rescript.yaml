@@ -1,2 +1,4 @@
-extensions: ["res", "resi"]
+extensions:
+  - "res"
+  - "resi"
 patterns: []

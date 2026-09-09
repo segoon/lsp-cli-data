@@ -1,2 +1,3 @@
-extensions: ["p8"]
+extensions:
+  - "p8"
 patterns: []

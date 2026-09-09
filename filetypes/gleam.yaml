@@ -1,2 +1,3 @@
-extensions: ["gleam"]
+extensions:
+  - "gleam"
 patterns: []

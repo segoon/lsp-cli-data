@@ -1,2 +1,3 @@
-extensions: ["flux"]
+extensions:
+  - "flux"
 patterns: []

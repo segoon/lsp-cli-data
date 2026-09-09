@@ -1,2 +1,3 @@
-extensions: ["pory"]
+extensions:
+  - "pory"
 patterns: []

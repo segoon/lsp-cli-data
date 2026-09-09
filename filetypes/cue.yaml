@@ -1,2 +1,3 @@
-extensions: ["cue"]
+extensions:
+  - "cue"
 patterns: []

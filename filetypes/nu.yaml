@@ -1,2 +1,3 @@
-extensions: ["nu"]
+extensions:
+  - "nu"
 patterns: []

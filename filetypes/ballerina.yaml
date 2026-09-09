@@ -1,2 +1,3 @@
-extensions: ["bal"]
+extensions:
+  - "bal"
 patterns: []

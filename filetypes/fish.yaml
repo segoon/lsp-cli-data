@@ -1,2 +1,3 @@
-extensions: ["fish"]
+extensions:
+  - "fish"
 patterns: []

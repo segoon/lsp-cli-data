@@ -1,2 +1,3 @@
-extensions: ["ttl"]
+extensions:
+  - "ttl"
 patterns: []

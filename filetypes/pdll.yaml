@@ -1,2 +1,3 @@
-extensions: ["pdll"]
+extensions:
+  - "pdll"
 patterns: []

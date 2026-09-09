@@ -1,2 +1,3 @@
-extensions: ["yar"]
+extensions:
+  - "yar"
 patterns: []

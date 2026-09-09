@@ -1,2 +1,3 @@
-extensions: ["dhall"]
+extensions:
+  - "dhall"
 patterns: []

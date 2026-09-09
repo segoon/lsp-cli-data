@@ -1,2 +1,4 @@
-extensions: ["gotmpl", "tmpl"]
+extensions:
+  - "gotmpl"
+  - "tmpl"
 patterns: []

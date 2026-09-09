@@ -1,2 +1,3 @@
-extensions: ["sass"]
+extensions:
+  - "sass"
 patterns: []

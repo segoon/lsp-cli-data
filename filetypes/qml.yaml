@@ -1,2 +1,3 @@
-extensions: ["qml"]
+extensions:
+  - "qml"
 patterns: []

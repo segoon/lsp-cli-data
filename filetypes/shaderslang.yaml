@@ -1,2 +1,3 @@
-extensions: ["slang"]
+extensions:
+  - "slang"
 patterns: []

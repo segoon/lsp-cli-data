@@ -1,2 +1,3 @@
-extensions: ["pest"]
+extensions:
+  - "pest"
 patterns: []

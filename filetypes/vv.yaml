@@ -1,2 +1,3 @@
-extensions: ["vv"]
+extensions:
+  - "vv"
 patterns: []

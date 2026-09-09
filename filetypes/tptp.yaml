@@ -1,2 +1,4 @@
-extensions: ["p", "ax"]
+extensions:
+  - "p"
+  - "ax"
 patterns: []

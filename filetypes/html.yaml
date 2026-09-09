@@ -1,2 +1,4 @@
-extensions: ["html", "htm"]
+extensions:
+  - "html"
+  - "htm"
 patterns: []

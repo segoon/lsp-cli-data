@@ -1,2 +1,4 @@
-extensions: ["gn", "gni"]
+extensions:
+  - "gn"
+  - "gni"
 patterns: []

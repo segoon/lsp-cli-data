@@ -1,2 +1,3 @@
-extensions: ["smt2"]
+extensions:
+  - "smt2"
 patterns: []

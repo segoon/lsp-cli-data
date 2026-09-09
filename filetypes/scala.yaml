@@ -1,2 +1,4 @@
-extensions: ["scala", "sc"]
+extensions:
+  - "scala"
+  - "sc"
 patterns: []

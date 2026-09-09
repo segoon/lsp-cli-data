@@ -1,2 +1,4 @@
-extensions: ["idr", "lidr"]
+extensions:
+  - "idr"
+  - "lidr"
 patterns: []

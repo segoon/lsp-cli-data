@@ -1,2 +1,5 @@
-extensions: ["cob", "cbl", "cpy"]
+extensions:
+  - "cob"
+  - "cbl"
+  - "cpy"
 patterns: []

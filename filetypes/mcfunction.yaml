@@ -1,2 +1,3 @@
-extensions: ["mcfunction"]
+extensions:
+  - "mcfunction"
 patterns: []

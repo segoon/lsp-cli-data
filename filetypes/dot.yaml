@@ -1,2 +1,4 @@
-extensions: ["dot", "gv"]
+extensions:
+  - "dot"
+  - "gv"
 patterns: []

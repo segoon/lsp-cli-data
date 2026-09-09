@@ -1,2 +1,3 @@
-extensions: ["tsp"]
+extensions:
+  - "tsp"
 patterns: []

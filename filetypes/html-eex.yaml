@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["\\.html\\.eex$"]
+patterns:
+  - "\\.html\\.eex$"

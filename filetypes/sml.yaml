@@ -1,2 +1,5 @@
-extensions: ["sml", "sig", "fun"]
+extensions:
+  - "sml"
+  - "sig"
+  - "fun"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["mli"]
+extensions:
+  - "mli"
 patterns: []

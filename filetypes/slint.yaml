@@ -1,2 +1,3 @@
-extensions: ["slint"]
+extensions:
+  - "slint"
 patterns: []

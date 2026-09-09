@@ -1,2 +1,4 @@
-extensions: ["asm", "s"]
+extensions:
+  - "asm"
+  - "s"
 patterns: []

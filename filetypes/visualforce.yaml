@@ -1,2 +1,4 @@
-extensions: ["page", "component"]
+extensions:
+  - "page"
+  - "component"
 patterns: []

@@ -1,2 +1,7 @@
-extensions: ["bash"]
-patterns: ["^\\.bashrc$", "^\\.bash_profile$", "^\\.bash_login$", "^\\.bash_logout$"]
+extensions:
+  - "bash"
+patterns:
+  - "^\\.bashrc$"
+  - "^\\.bash_profile$"
+  - "^\\.bash_login$"
+  - "^\\.bash_logout$"

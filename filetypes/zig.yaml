@@ -1,2 +1,3 @@
-extensions: ["zig"]
+extensions:
+  - "zig"
 patterns: []

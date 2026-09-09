@@ -1,2 +1,3 @@
-extensions: ["feature"]
+extensions:
+  - "feature"
 patterns: []

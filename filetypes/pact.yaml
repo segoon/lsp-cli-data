@@ -1,2 +1,3 @@
-extensions: ["pact"]
+extensions:
+  - "pact"
 patterns: []

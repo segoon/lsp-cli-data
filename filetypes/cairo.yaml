@@ -1,2 +1,3 @@
-extensions: ["cairo"]
+extensions:
+  - "cairo"
 patterns: []

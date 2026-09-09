@@ -1,2 +1,3 @@
-extensions: ["leaf"]
+extensions:
+  - "leaf"
 patterns: []

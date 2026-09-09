@@ -1,2 +1,3 @@
-extensions: ["gdshader"]
+extensions:
+  - "gdshader"
 patterns: []

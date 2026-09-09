@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^Tiltfile$"]
+patterns:
+  - "^Tiltfile$"

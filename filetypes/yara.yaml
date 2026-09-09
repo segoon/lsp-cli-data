@@ -1,2 +1,3 @@
-extensions: ["yara"]
+extensions:
+  - "yara"
 patterns: []

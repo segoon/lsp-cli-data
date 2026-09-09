@@ -1,2 +1,3 @@
-extensions: ["typ"]
+extensions:
+  - "typ"
 patterns: []

@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^COMMIT_EDITMSG$"]
+patterns:
+  - "^COMMIT_EDITMSG$"

@@ -1,2 +1,3 @@
-extensions: ["styl"]
+extensions:
+  - "styl"
 patterns: []

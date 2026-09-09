@@ -1,2 +1,3 @@
-extensions: ["tcl"]
+extensions:
+  - "tcl"
 patterns: []

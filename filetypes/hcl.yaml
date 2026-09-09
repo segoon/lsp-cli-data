@@ -1,2 +1,3 @@
-extensions: ["hcl"]
+extensions:
+  - "hcl"
 patterns: []

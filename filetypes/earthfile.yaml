@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^Earthfile$"]
+patterns:
+  - "^Earthfile$"

@@ -1,2 +1,3 @@
-extensions: ["blp"]
+extensions:
+  - "blp"
 patterns: []

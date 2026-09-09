@@ -1,2 +1,3 @@
-extensions: ["vsh"]
+extensions:
+  - "vsh"
 patterns: []

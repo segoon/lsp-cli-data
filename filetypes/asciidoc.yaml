@@ -1,2 +1,5 @@
-extensions: ["adoc", "asciidoc", "asc"]
+extensions:
+  - "adoc"
+  - "asciidoc"
+  - "asc"
 patterns: []

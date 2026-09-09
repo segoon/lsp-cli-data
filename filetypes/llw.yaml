@@ -1,2 +1,3 @@
-extensions: ["llw"]
+extensions:
+  - "llw"
 patterns: []

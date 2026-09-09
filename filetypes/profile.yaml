@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^\\.profile$"]
+patterns:
+  - "^\\.profile$"

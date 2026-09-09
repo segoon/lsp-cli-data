@@ -1,2 +1,4 @@
 extensions: []
-patterns: ["^Chart\\.yaml$", "\\.gotmpl\\.yaml$"]
+patterns:
+  - "^Chart\\.yaml$"
+  - "\\.gotmpl\\.yaml$"

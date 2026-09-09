@@ -1,2 +1,3 @@
-extensions: ["tofuvars"]
+extensions:
+  - "tofuvars"
 patterns: []

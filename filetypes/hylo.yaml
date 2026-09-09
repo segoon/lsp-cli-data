@@ -1,2 +1,3 @@
-extensions: ["hylo"]
+extensions:
+  - "hylo"
 patterns: []

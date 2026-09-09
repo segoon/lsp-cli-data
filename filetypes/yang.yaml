@@ -1,2 +1,3 @@
-extensions: ["yang"]
+extensions:
+  - "yang"
 patterns: []

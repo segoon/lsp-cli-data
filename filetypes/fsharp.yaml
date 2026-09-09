@@ -1,2 +1,6 @@
-extensions: ["fs", "fsi", "fsx", "fsscript"]
+extensions:
+  - "fs"
+  - "fsi"
+  - "fsx"
+  - "fsscript"
 patterns: []

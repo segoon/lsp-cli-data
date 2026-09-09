@@ -1,2 +1,3 @@
-extensions: ["sls"]
+extensions:
+  - "sls"
 patterns: []

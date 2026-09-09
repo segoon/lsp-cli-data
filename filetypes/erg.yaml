@@ -1,2 +1,3 @@
-extensions: ["er"]
+extensions:
+  - "er"
 patterns: []

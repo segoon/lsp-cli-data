@@ -1,2 +1,7 @@
-extensions: ["php", "phtml", "php3", "php4", "php5"]
+extensions:
+  - "php"
+  - "phtml"
+  - "php3"
+  - "php4"
+  - "php5"
 patterns: []

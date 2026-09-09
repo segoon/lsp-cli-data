@@ -1,2 +1,3 @@
-extensions: ["comp"]
+extensions:
+  - "comp"
 patterns: []

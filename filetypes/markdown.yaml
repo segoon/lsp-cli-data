@@ -1,2 +1,4 @@
-extensions: ["md", "markdown"]
+extensions:
+  - "md"
+  - "markdown"
 patterns: []

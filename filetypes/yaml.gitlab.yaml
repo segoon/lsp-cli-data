@@ -1,2 +1,3 @@
 extensions: []
-patterns: ["^\\.gitlab-ci\\.ya?ml$"]
+patterns:
+  - "^\\.gitlab-ci\\.ya?ml$"

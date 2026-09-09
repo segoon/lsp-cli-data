@@ -1,2 +1,3 @@
-extensions: ["fnl"]
+extensions:
+  - "fnl"
 patterns: []

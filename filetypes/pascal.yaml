@@ -1,2 +1,5 @@
-extensions: ["pas", "pp", "inc"]
+extensions:
+  - "pas"
+  - "pp"
+  - "inc"
 patterns: []

@@ -1,2 +1,4 @@
-extensions: ["sv", "svh"]
+extensions:
+  - "sv"
+  - "svh"
 patterns: []

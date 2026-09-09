@@ -1,2 +1,3 @@
-extensions: ["eex"]
+extensions:
+  - "eex"
 patterns: []

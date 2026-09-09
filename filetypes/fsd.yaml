@@ -1,2 +1,3 @@
-extensions: ["fsd"]
+extensions:
+  - "fsd"
 patterns: []

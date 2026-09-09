@@ -1,2 +1,3 @@
-extensions: ["vue"]
+extensions:
+  - "vue"
 patterns: []

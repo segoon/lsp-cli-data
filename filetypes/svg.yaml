@@ -1,2 +1,3 @@
-extensions: ["svg"]
+extensions:
+  - "svg"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["ziggy-schema"]
+extensions:
+  - "ziggy-schema"
 patterns: []

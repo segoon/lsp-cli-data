@@ -1,2 +1,3 @@
-extensions: ["move"]
+extensions:
+  - "move"
 patterns: []

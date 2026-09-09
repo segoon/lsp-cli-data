@@ -1,2 +1,4 @@
-extensions: ["cyp", "cypher"]
+extensions:
+  - "cyp"
+  - "cypher"
 patterns: []

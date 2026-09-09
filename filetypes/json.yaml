@@ -1,2 +1,3 @@
-extensions: ["json"]
+extensions:
+  - "json"
 patterns: []

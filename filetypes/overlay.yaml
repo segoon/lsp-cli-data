@@ -1,2 +1,3 @@
-extensions: ["overlay"]
+extensions:
+  - "overlay"
 patterns: []

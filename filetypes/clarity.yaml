@@ -1,2 +1,3 @@
-extensions: ["clar"]
+extensions:
+  - "clar"
 patterns: []

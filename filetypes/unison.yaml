@@ -1,2 +1,3 @@
-extensions: ["u"]
+extensions:
+  - "u"
 patterns: []

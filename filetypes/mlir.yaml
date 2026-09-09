@@ -1,2 +1,3 @@
-extensions: ["mlir"]
+extensions:
+  - "mlir"
 patterns: []

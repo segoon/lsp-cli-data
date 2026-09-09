@@ -1,2 +1,3 @@
-extensions: ["bicepparam"]
+extensions:
+  - "bicepparam"
 patterns: []

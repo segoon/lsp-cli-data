@@ -1,2 +1,5 @@
-extensions: ["ada", "adb", "ads"]
+extensions:
+  - "ada"
+  - "adb"
+  - "ads"
 patterns: []

@@ -1,2 +1,3 @@
-extensions: ["xhtml"]
+extensions:
+  - "xhtml"
 patterns: []

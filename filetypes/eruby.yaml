@@ -1,2 +1,3 @@
-extensions: ["erb"]
+extensions:
+  - "erb"
 patterns: []

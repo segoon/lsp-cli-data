@@ -1,2 +1,4 @@
-extensions: ["mm0", "mm1"]
+extensions:
+  - "mm0"
+  - "mm1"
 patterns: []

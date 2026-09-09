@@ -1,2 +1,6 @@
-extensions: ["mkiv", "mkvi", "mkxl", "mkii"]
+extensions:
+  - "mkiv"
+  - "mkvi"
+  - "mkxl"
+  - "mkii"
 patterns: []

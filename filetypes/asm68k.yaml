@@ -1,2 +1,4 @@
-extensions: ["68k", "x68"]
+extensions:
+  - "68k"
+  - "x68"
 patterns: []

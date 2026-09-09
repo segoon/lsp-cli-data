@@ -1,2 +1,3 @@
-extensions: ["uvl"]
+extensions:
+  - "uvl"
 patterns: []

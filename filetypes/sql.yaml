@@ -1,2 +1,3 @@
-extensions: ["sql"]
+extensions:
+  - "sql"
 patterns: []

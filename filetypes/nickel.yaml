@@ -1,2 +1,3 @@
-extensions: ["ncl"]
+extensions:
+  - "ncl"
 patterns: []

@@ -1,2 +1,5 @@
-extensions: ["ps1", "psm1", "psd1"]
+extensions:
+  - "ps1"
+  - "psm1"
+  - "psd1"
 patterns: []

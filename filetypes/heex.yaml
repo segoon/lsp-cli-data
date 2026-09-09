@@ -1,2 +1,3 @@
-extensions: ["heex"]
+extensions:
+  - "heex"
 patterns: []

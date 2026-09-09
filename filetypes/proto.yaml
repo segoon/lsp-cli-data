@@ -1,2 +1,3 @@
-extensions: ["proto"]
+extensions:
+  - "proto"
 patterns: []

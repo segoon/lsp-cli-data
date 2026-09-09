@@ -1,2 +1,3 @@
-extensions: ["robot"]
+extensions:
+  - "robot"
 patterns: []

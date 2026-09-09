@@ -1,2 +1,5 @@
 extensions: []
-patterns: ["^buf\\.yaml$", "^buf\\.gen\\.yaml$", "^buf\\.work\\.yaml$"]
+patterns:
+  - "^buf\\.yaml$"
+  - "^buf\\.gen\\.yaml$"
+  - "^buf\\.work\\.yaml$"

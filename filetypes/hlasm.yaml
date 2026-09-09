@@ -1,2 +1,3 @@
-extensions: ["hlasm"]
+extensions:
+  - "hlasm"
 patterns: []

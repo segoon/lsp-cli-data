@@ -1,2 +1,3 @@
-extensions: ["geom"]
+extensions:
+  - "geom"
 patterns: []

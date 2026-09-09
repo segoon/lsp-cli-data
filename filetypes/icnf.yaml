@@ -1,2 +1,3 @@
-extensions: ["icnf"]
+extensions:
+  - "icnf"
 patterns: []

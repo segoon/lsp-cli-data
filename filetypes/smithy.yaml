@@ -1,2 +1,3 @@
-extensions: ["smithy"]
+extensions:
+  - "smithy"
 patterns: []

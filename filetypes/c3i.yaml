@@ -1,2 +1,3 @@
-extensions: ["c3i"]
+extensions:
+  - "c3i"
 patterns: []

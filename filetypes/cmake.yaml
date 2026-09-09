@@ -1,2 +1,4 @@
-extensions: ["cmake"]
-patterns: ["^CMakeLists\\.txt$"]
+extensions:
+  - "cmake"
+patterns:
+  - "^CMakeLists\\.txt$"

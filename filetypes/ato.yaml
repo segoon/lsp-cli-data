@@ -1,2 +1,3 @@
-extensions: ["ato"]
+extensions:
+  - "ato"
 patterns: []

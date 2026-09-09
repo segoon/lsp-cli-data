@@ -1,2 +1,3 @@
-extensions: ["bicep"]
+extensions:
+  - "bicep"
 patterns: []

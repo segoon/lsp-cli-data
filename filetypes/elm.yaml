@@ -1,2 +1,3 @@
-extensions: ["elm"]
+extensions:
+  - "elm"
 patterns: []

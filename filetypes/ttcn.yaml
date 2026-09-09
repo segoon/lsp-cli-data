@@ -1,2 +1,4 @@
-extensions: ["ttcn", "ttcn3"]
+extensions:
+  - "ttcn"
+  - "ttcn3"
 patterns: []

@@ -1,2 +1,4 @@
 extensions: []
-patterns: ["^atlas\\.hcl$", "^schema\\.hcl$"]
+patterns:
+  - "^atlas\\.hcl$"
+  - "^schema\\.hcl$"

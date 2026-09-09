@@ -1,2 +1,3 @@
-extensions: ["mint"]
+extensions:
+  - "mint"
 patterns: []
