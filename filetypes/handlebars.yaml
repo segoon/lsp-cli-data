@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["handlebars", "hbs"]
 patterns: []

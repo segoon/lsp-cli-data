@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["groovy", "gvy", "gradle"]
 patterns: []
