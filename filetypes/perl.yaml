@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["pl", "pm", "t", "psgi"]
 patterns: []

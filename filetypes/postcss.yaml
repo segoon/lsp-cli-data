@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["pcss", "postcss"]
 patterns: []
