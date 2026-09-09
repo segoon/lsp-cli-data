@@ -1,2 +1,4 @@
-extensions: []
-patterns: []
+extensions:
+  - "bri"
+patterns:
+  - "^project\\.bri$"

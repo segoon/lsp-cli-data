@@ -1,2 +1,5 @@
-extensions: []
+extensions:
+  - "nim"
+  - "nims"
+  - "nimble"
 patterns: []

@@ -1,2 +1,7 @@
-extensions: []
+extensions:
+  - "clj"
+  - "cljs"
+  - "cljc"
+  - "cljx"
+  - "clojure"
 patterns: []

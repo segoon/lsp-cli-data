@@ -1,2 +1,5 @@
 extensions: []
-patterns: []
+patterns:
+  - "^dune$"
+  - "^dune-project$"
+  - "^dune-workspace$"

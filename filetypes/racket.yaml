@@ -1,2 +1,5 @@
-extensions: []
+extensions:
+  - "rkt"
+  - "rktl"
+  - "rktd"
 patterns: []

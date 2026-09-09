@@ -1,2 +1,4 @@
-extensions: []
+extensions:
+  - "http"
+  - "rest"
 patterns: []

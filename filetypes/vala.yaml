@@ -1,2 +1,4 @@
-extensions: []
+extensions:
+  - "vala"
+  - "vapi"
 patterns: []

@@ -1,2 +1,6 @@
-extensions: []
-patterns: []
+extensions:
+  - "sh"
+patterns:
+  - "^\\.zshrc$"
+  - "^\\.zprofile$"
+  - "^\\.kshrc$"

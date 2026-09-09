@@ -1,2 +1,6 @@
-extensions: []
-patterns: []
+extensions:
+  - "dockerfile"
+patterns:
+  - "^Dockerfile$"
+  - "^Dockerfile\\..+$"
+  - "^.+\\.[Dd]ockerfile$"

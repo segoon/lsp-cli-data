@@ -1,2 +1,10 @@
 extensions: []
-patterns: []
+patterns:
+  - "\\.service$"
+  - "\\.socket$"
+  - "\\.timer$"
+  - "\\.mount$"
+  - "\\.target$"
+  - "\\.path$"
+  - "\\.slice$"
+  - "\\.scope$"

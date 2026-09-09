@@ -1,2 +1,4 @@
-extensions: []
+extensions:
+  - "ex"
+  - "exs"
 patterns: []

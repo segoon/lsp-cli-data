@@ -1,2 +1,4 @@
-extensions: []
-patterns: []
+extensions:
+  - "am"
+patterns:
+  - "^Makefile\\.am$"

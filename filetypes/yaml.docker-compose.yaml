@@ -1,2 +1,4 @@
 extensions: []
-patterns: []
+patterns:
+  - "^docker-compose\\.ya?ml$"
+  - "^compose\\.ya?ml$"

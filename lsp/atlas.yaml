@@ -1,5 +1,5 @@
 filetypes:
-  - "atlas-*"
+  - "atlas"
 root_markers:
   - "atlas.hcl"
 name: "atlas"

@@ -1,2 +1,7 @@
-extensions: []
+extensions:
+  - "csproj"
+  - "vbproj"
+  - "fsproj"
+  - "targets"
+  - "props"
 patterns: []

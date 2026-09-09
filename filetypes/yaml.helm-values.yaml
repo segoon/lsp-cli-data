@@ -1,2 +1,4 @@
 extensions: []
-patterns: []
+patterns:
+  - "^values\\.ya?ml$"
+  - "^values-.+\\.ya?ml$"

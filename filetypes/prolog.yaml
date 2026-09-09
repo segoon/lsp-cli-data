@@ -1,2 +1,4 @@
-extensions: []
+extensions:
+  - "pro"
+  - "plt"
 patterns: []

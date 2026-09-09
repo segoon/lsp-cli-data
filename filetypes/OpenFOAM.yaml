@@ -1,2 +1,9 @@
 extensions: []
-patterns: []
+patterns:
+  - "^controlDict$"
+  - "^fvSchemes$"
+  - "^fvSolution$"
+  - "^blockMeshDict$"
+  - "^decomposeParDict$"
+  - "^transportProperties$"
+  - "^turbulenceProperties$"

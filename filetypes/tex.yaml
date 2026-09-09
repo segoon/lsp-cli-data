@@ -1,2 +1,7 @@
-extensions: []
+extensions:
+  - "tex"
+  - "sty"
+  - "cls"
+  - "dtx"
+  - "ins"
 patterns: []

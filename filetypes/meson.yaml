@@ -1,2 +1,4 @@
 extensions: []
-patterns: []
+patterns:
+  - "^meson\\.build$"
+  - "^meson_options\\.txt$"

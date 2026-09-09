@@ -1,2 +1,4 @@
-extensions: []
-patterns: []
+extensions:
+  - "just"
+patterns:
+  - "^[Jj]ustfile$"

@@ -1,2 +1,3 @@
-extensions: []
+extensions:
+  - "vert"
 patterns: []
