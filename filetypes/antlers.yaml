@@ -1,2 +1,2 @@
 extensions: []
-patterns: []
+patterns: ["\\.antlers\\.html$", "\\.antlers\\.php$"]

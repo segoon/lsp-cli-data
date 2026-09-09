@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["ahk", "ahkl", "ah2"]
 patterns: []

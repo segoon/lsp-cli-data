@@ -1,2 +1,7 @@
 extensions: []
-patterns: []
+patterns:
+  - "^BUILD$"
+  - "^BUILD\\.bazel$"
+  - "^WORKSPACE$"
+  - "^WORKSPACE\\.bazel$"
+  - "^MODULE\\.bazel$"

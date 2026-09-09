@@ -1,2 +1,2 @@
-extensions: []
-patterns: []
+extensions: ["agda"]
+patterns: ["\\.lagda$", "\\.lagda\\.md$", "\\.lagda\\.rst$", "\\.lagda\\.tex$"]

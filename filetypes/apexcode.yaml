@@ -1,2 +1,2 @@
-extensions: []
+extensions: ["cls", "trigger"]
 patterns: []
