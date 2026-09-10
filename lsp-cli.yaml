@@ -28,6 +28,8 @@ lsp:
     - clangd
   objcpp:
     - clangd
+  perl:
+    - perlnavigator
   python:
     - pyright-langserver
   rust:
