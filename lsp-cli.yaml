@@ -3,6 +3,8 @@
 lsp:
   c:
     - clangd
+  clojure:
+    - clojure-lsp
   cpp:
     - clangd
   cs:
