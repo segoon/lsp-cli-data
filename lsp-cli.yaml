@@ -30,6 +30,8 @@ lsp:
     - clangd
   objcpp:
     - clangd
+  odin:
+    - ols
   perl:
     - perlnavigator
   python:
