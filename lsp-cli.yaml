@@ -3,6 +3,8 @@
 lsp:
   c:
     - clangd
+  clojure:
+    - clojure-lsp
   cpp:
     - clangd
   cs:
@@ -24,13 +26,21 @@ lsp:
 
   lua:
     - lua-language-server
+  luau:
+    - luau-lsp
   objc:
     - clangd
   objcpp:
     - clangd
+  odin:
+    - ols
+  perl:
+    - perlnavigator
   python:
     - pyright-langserver
   rust:
     - rust-analyzer
   typescript:
     - typescript-language-server
+  zig:
+    - zls
