@@ -24,6 +24,8 @@ lsp:
 
   lua:
     - lua-language-server
+  luau:
+    - luau-lsp
   objc:
     - clangd
   objcpp:
