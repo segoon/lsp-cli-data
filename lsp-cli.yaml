@@ -34,3 +34,5 @@ lsp:
     - rust-analyzer
   typescript:
     - typescript-language-server
+  zig:
+    - zls
