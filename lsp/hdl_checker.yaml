@@ -5,4 +5,4 @@ filetypes:
 root_markers:
   - ".git"
 name: "hdl_checker"
-cmdline: "hdl_checker --lsp"
+cmdline: "hdl_checker"
