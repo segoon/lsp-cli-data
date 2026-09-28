@@ -2,5 +2,5 @@ filetypes:
   - "rst"
 root_markers:
   - ".git"
-name: "python"
-cmdline: "/path/to/virtualenv/bin/python -m esbonio"
+name: "esbonio"
+cmdline: "esbonio server"
