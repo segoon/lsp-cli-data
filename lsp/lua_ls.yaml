@@ -13,3 +13,4 @@ root_markers:
   - ".git"
 name: "lua-language-server"
 cmdline: "lua-language-server"
+build-index-completion: best-effort

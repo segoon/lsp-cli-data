@@ -4,3 +4,4 @@ filetypes:
 root_markers: []
 name: "OmniSharp"
 cmdline: "OmniSharp -z DotNet:enablePackageRestore=false --encoding utf-8 --languageserver"
+build-index-completion: best-effort

@@ -4,3 +4,4 @@ root_markers:
   - ".git"
 name: "luau-lsp"
 cmdline: "luau-lsp lsp"
+build-index-completion: best-effort

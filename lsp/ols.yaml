@@ -6,3 +6,4 @@ root_markers:
   - "*.odin"
 name: "ols"
 cmdline: "ols"
+build-index-completion: best-effort

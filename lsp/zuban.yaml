@@ -9,3 +9,4 @@ root_markers:
   - ".git"
 name: "zuban"
 cmdline: "zuban server"
+build-index-completion: best-effort

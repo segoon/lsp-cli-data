@@ -4,3 +4,4 @@ root_markers:
   - ".git"
 name: "perlnavigator"
 cmdline: "perlnavigator"
+build-index-completion: best-effort

@@ -14,3 +14,4 @@ root_markers:
   - "deno.lock"
 name: "typescript-language-server"
 cmdline: "typescript-language-server --stdio"
+build-index-completion: best-effort

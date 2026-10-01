@@ -7,3 +7,4 @@ root_markers:
   - ".git"
 name: "zls"
 cmdline: "zls"
+build-index-completion: best-effort
