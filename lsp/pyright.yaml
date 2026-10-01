@@ -10,3 +10,4 @@ root_markers:
   - ".git"
 name: "pyright-langserver"
 cmdline: "pyright-langserver --stdio"
+build-index-completion: best-effort

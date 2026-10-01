@@ -8,3 +8,5 @@ root_markers:
   - "cmake"
 name: "cmake-language-server"
 cmdline: "cmake-language-server"
+mason-extra-packages:
+  - "pygls<2"

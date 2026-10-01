@@ -10,3 +10,4 @@ root_markers:
   - "bb.edn"
 name: "clojure-lsp"
 cmdline: "clojure-lsp"
+build-index-completion: best-effort

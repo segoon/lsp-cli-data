@@ -3,3 +3,4 @@ filetypes:
 root_markers: []
 name: "dotnet"
 cmdline: "roslyn-language-server --stdio"
+build-index-completion: best-effort

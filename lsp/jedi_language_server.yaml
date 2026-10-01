@@ -9,3 +9,4 @@ root_markers:
   - ".git"
 name: "jedi-language-server"
 cmdline: "jedi-language-server"
+build-index-completion: best-effort
