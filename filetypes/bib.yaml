@@ -1,3 +1,4 @@
+language-id: bibtex
 extensions:
   - "bib"
 patterns: []

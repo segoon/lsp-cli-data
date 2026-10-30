@@ -1,3 +1,4 @@
+language-id: cuda-cpp
 extensions:
   - "cu"
   - "cuh"

@@ -1,3 +1,4 @@
+language-id: shellscript
 extensions:
   - "bash"
 patterns:
