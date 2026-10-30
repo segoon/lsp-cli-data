@@ -1,3 +1,4 @@
+language-id: powershell
 extensions:
   - "ps1"
   - "psm1"

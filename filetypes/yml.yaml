@@ -1,3 +1,4 @@
+language-id: yaml
 extensions:
   - "yml"
 patterns: []

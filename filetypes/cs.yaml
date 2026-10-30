@@ -1,3 +1,4 @@
+language-id: csharp
 extensions:
   - "cs"
 patterns: []

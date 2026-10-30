@@ -1,3 +1,4 @@
+language-id: makefile
 extensions:
   - "mk"
   - "mak"

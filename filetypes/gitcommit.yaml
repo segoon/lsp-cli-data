@@ -1,3 +1,4 @@
+language-id: git-commit
 extensions: []
 patterns:
   - "^COMMIT_EDITMSG$"

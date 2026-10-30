@@ -1,3 +1,4 @@
+language-id: coffeescript
 extensions:
   - "coffee"
 patterns: []
